@@ -1,0 +1,17 @@
+commit 12981d0d22ef707bac8f19d3a8b3c00e67bb35e0
+Author: jorge <jeac86@gmail.com>
+Date:   Fri Oct 25 11:21:21 2019 -0500
+
+    creamos el metodo ensayo
+
+commit ba76c96760d54341b9d801d992b2f3a17dc8be81
+Author: jorge <jeac86@gmail.com>
+Date:   Fri Oct 25 11:18:47 2019 -0500
+
+    agregamos linea a java y a txt
+
+commit 2e96749491f6425fa8e405bb933187252dfef4fd
+Author: jorge <jeac86@gmail.com>
+Date:   Fri Oct 25 11:13:56 2019 -0500
+
+    primer guardado
