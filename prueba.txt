@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 hello
-=======
+
 hello
 
 less than jake
->>>>>>> test
